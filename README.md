@@ -1,15 +1,7 @@
-# LassoGRU: A Framework for Feature Selection and Prediction Using LassoCV and GRU
-
-## Overview
-**LassoGRU** is a Python-based tool that integrates LassoCV for feature selection and a GRU-based neural network for regression.
-
-## Key Features
-1. **Feature Selection**: Leverages LassoCV to select informative features while removing irrelevant ones.
-2. **Regression**: Uses a GRU-based neural network to achieve high predictive accuracy.
-3. **Reusable Outputs**: Saves feature selectors, scalers, and trained models for easy application on new datasets.
+# LassoGRU: a novel framework for crop genome-to-phenotype prediction
 
 ## Installation
-### 1. Clone the Repository
+### Clone the Repository
 ```bash
 git clone https://github.com/your_username/lassoGRU.git
 cd lassoGRU
